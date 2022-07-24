@@ -6,11 +6,9 @@
 
 ## Alphabet
 
-Armenian alphabet is 
+
 
 ## Grammar
-
-
 
 
 
