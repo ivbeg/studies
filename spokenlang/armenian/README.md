@@ -16,13 +16,29 @@ Armenian is my native language, but not literal, but rural Western Armenian. Stu
 
 ## Alphabet
 
+[Армянский алфавит — Википедия](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82) - Russian Wikipedia about Armenian alphabet
+
 ## Grammar
 
 # Tips
 
+* Alphabet is the first priority, without it is hard to study words.
+
+# Goals
+
+- Understand the spoken Armenian language
+
+- Read fluently professional literature and texts: 
+
+- - Official government news https://www.gov.am/am/news/ 
+
 # Resources
 
-## Applications
+### Courses
+
+* [Diaspora - ИЗУЧАЙ АРМЯНСКИЙ](http://diaspora.gov.am/ru/pages/137/learn-Armenian) - official government website for Russian speaking to study Armenian.
+
+
 
 ### Memory cards
 
@@ -34,7 +50,7 @@ Armenian is my native language, but not literal, but rural Western Armenian. Stu
 
 ## Books
 
-TBD
+* Armenian school books online https://schoolbooks.am
 
 ## Communities
 
