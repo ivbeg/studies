@@ -42,8 +42,6 @@ Not really sure about that:
 
 - Francais
 
-
-
 # Writing
 
 I write a lot, especially in Russian, but it's short texts in Telegram format. Rarely do I write long technical texts in English and Russian. My goal is regular writing in Russian, English, and other languages. 
@@ -58,8 +56,6 @@ I write a lot, especially in Russian, but it's short texts in Telegram format. R
 
 * Writing stories in Armenian and Polish
 
-
-
 # General skills
 
 ## Current studies
@@ -68,8 +64,6 @@ I write a lot, especially in Russian, but it's short texts in Telegram format. R
 
 * Nutrition and cooking
 
-
-
 # Technology
 
 ## Current studies
@@ -77,8 +71,6 @@ I write a lot, especially in Russian, but it's short texts in Telegram format. R
 * Data engineering
 
 * Understanding data
-
-
 
 ## Under consideration
 
