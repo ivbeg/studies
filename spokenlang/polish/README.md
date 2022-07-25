@@ -41,6 +41,7 @@ Armenian is my native language, but not literal, but rural Western Armenian. Stu
 * [System certyfikacji](https://certyfikatpolski.pl/) 
 
 * [Level B1 | Tests by ProPolski](https://testy.propolski.com/en/poziomy/level-b1/)
+* [Zbiory zadań](http://certyfikatpolski.pl/o-egzaminie/zbiory-zadan/) - official examples to study
 
 ## Books
 
