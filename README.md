@@ -14,6 +14,25 @@ So I've started my systematic studies since I feel quite mature and I find that 
 
 More details [how to](howto.md) start new studies and how to keep studying in memory.
 
+
+
+# Technology
+
+Technology is my primary specialization. It's programming, data skills, and so on. It's easier to study, sometimes too easy. It should be divided into new crafts and skills to be improved.
+
+## Current studies
+
+- [Data engineering](tech/dataengineering//README.md)
+- [Understanding data](tech/dataunderstanding/README.md)
+
+## Under consideration
+
+- Data science
+- Go language
+- Clickhouse
+
+
+
 # Spoken languages
 
 My primary spoken language is Russian also, I know English, not ideally, but I can read, write and talk and even read scientific papers. It's not so hard to study Slavic languages.
@@ -29,9 +48,7 @@ My primary spoken language is Russian also, I know English, not ideally, but I c
 ## Plans
 
 - Spanish - it's popular, sounds good, and should be easy after Latin.
-
 - Chinese - China is a vast country with 1B speakers of Chinese. It is worth at least being able to read it.
-
 - Arabic - it's very unusual, not very common
 
 ## Under consideration)
@@ -39,7 +56,6 @@ My primary spoken language is Russian also, I know English, not ideally, but I c
 Not sure about that:
 
 - German
-
 - Francais
 
 # Writing
@@ -49,32 +65,11 @@ I write a lot, especially in Russian, but it's short texts in Telegram format. R
 ## Current studies
 
 - Regular text writing in Russian and English
-
 - Writing stories in English
 
 ## Plans
 
 - Writing stories in Armenian and Polish
-
-
-
-# Technology
-
-Technology is my primary specialization. It's programming, data skills, and so on. It's easier to study, sometimes too easy. It should be divided into new crafts and skills to be improved.
-
-## Current studies
-
-- Data engineering 
-
-- Understanding data
-
-## Under consideration
-
-- Data science
-
-- Go language
-
-- Clickhouse
 
 
 
@@ -85,5 +80,4 @@ General topics that I feel that I don't understand enough.
 ## Current studies
 
 - Human health basics
-
 - Nutrition and cooking
