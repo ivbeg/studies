@@ -37,7 +37,7 @@ Armenian is my native language, but not literal, but rural Western Armenian. Stu
 ### Courses
 
 * [Diaspora - ИЗУЧАЙ АРМЯНСКИЙ](http://diaspora.gov.am/ru/pages/137/learn-Armenian) - official government website for Russian speaking to study Armenian.
-
+* [Армянский язык с нуля/Полный видеокурс/HAYK media](https://www.youtube.com/watch?v=FxWdEqqAC1o) - 9 hours video course of Armenian
 
 
 ### Memory cards
